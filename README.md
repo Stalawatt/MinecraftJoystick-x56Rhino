@@ -1,7 +1,7 @@
 # MinecraftJoystick-x56Rhino
 A python script for taking inputs from a Rhino x56 HOTAS (throttle and joystick) and translating them to inputs for controlling Minecraft
 
-Packages required for this script : 
+Prerequisite Packages : 
 
 pygame - for joystick inputs
 pydirectinput - for directly inputting the keyboard strokes
